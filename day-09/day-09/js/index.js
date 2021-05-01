@@ -10,7 +10,7 @@ const NS = 'http://www.w3.org/2000/svg';
 // State of our application
 let state = {
     circles: []
-    size : 10
+    size: 10
 };
 
 // Create a `p` element DOM
